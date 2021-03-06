@@ -1,6 +1,6 @@
 # aws-boot-s3
 
-## deployment of a sample spring boot application in linux ec2 instance and S3 .
+## 1. Deployment of a sample spring boot application in linux ec2 instance and S3 .
 ### Install java on linux EC2
   **In order to install java 11:**
   sudo amazon-linux-extras install java-openjdk11
@@ -19,7 +19,7 @@
  
  -------------------------------------------------------------------
  
- ## deployment of a sample spring boot application in linux ec2 instance with RDS and S3 .
+ ## 2. Deployment of a sample spring boot application in linux ec2 instance with RDS and S3 .
  
  1. Create and RDS and make it accessible either publicly or IP based.
  2. Copy the endpoint and provide in the yaml/properties file

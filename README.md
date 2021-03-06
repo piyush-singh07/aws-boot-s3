@@ -22,7 +22,7 @@
  ## 2. Deployment of a sample spring boot application in linux ec2 instance with RDS and S3 .
  
  1. Create and RDS and make it accessible either publicly or IP based.
- 2. Copy the endpoint of RDS and provide in the yaml/properties file
+ 2. Copy the endpoint of RDS,username,password and provide in the yaml/properties file
  3. Deploy the Spring Boot Application in an EC2 instance
  4. Hit REST endpoints and check for the enteries in DB.
  
